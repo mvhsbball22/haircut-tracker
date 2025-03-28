@@ -25,7 +25,7 @@
         "eject": "react-scripts eject",
         "tailwind": "tailwindcss init -p",
         "predeploy": "npm run build",
-        "deploy": "gh-pages -d build"
+        "deploy": "gh-pages -d build --cname hair.robertcraigiii.com"
     },
     "eslintConfig": {
         "extends": [
